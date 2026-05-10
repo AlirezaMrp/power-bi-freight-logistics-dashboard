@@ -1,8 +1,8 @@
 # Global Freight & Shipment Performance Dashboard
 
-An interactive and visually designed Power BI dashboard developed to analyse global freight operations, shipment performance, logistics costs, and delivery efficiency across countries and shipment modes.
+An interactive and visually designed Power BI dashboard developed to analyse global freight operations, shipment performance, logistics costs and delivery efficiency across countries and shipment modes.
 
-This project demonstrates how business intelligence and data visualisation can transform raw logistics data into operational insights for decision-making, performance monitoring, and supply chain analysis.
+This project demonstrates how business intelligence and data visualisation can transform raw logistics data into operational insights for decision-making, performance monitoring and supply chain analysis.
 
 ---
 
@@ -137,12 +137,10 @@ This project highlights practical skills in:
 ## Dashboard Preview
 
 ### Executive Overview
-
-(Add screenshot here)
+<img width="1793" height="1010" alt="Page 1" src="https://github.com/user-attachments/assets/e38b5b60-16b8-455a-9083-5de90b2e57aa" />
 
 ### Operations Analysis
-
-(Add screenshot here)
+<img width="1791" height="1008" alt="Page 2" src="https://github.com/user-attachments/assets/f38abd59-cb88-44e1-9aa7-480743cb032b" />
 
 ---
 
@@ -156,15 +154,8 @@ The project combines analytical thinking with modern dashboard design principles
 
 ## Author
 
-Alireza MRP
-
+Alireza Moradpour
 MSc Transportation Engineering & Mobility
-University of Naples Federico II
 
-Interests:
-
-* Transport Analytics
-* Supply Chain & Logistics
-* Business Intelligence
 * Data Visualisation
 * Smart Mobility Systems
