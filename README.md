@@ -156,6 +156,3 @@ The project combines analytical thinking with modern dashboard design principles
 
 Alireza Moradpour
 MSc Transportation Engineering & Mobility
-
-* Data Visualisation
-* Smart Mobility Systems
